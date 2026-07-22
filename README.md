@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
