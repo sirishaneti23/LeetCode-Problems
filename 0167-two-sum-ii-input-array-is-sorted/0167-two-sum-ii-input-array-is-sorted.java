@@ -13,8 +13,7 @@ class Solution {
             {
                 res[0] = l+1;
                 res[1] = r+1;
-                l++;
-                r--;
+                return res;
             }
             else if(sum > target)
             {
@@ -25,6 +24,8 @@ class Solution {
                 l++;
             }
         }
+        res[0] = -1;
+        res[1] = -1;
         return res;
     }
 }
