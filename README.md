@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
