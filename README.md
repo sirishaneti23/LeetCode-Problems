@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -98,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
