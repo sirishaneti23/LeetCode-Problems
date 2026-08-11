@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0595-big-countries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
