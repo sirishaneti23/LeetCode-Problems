@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
