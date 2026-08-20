@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2299-strong-password-checker-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2299-strong-password-checker-ii) |
