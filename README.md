@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
