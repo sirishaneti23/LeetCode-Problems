@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
