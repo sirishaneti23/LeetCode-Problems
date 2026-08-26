@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
