@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
