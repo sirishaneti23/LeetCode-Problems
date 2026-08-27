@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 ## Enumeration
