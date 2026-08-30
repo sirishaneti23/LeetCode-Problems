@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
