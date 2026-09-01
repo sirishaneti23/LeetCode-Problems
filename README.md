@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -219,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
