@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
