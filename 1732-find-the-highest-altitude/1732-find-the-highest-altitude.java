@@ -1,6 +1,5 @@
 class Solution {
     public int largestAltitude(int[] gain) {
-        int n = gain.length;
         int max = 0;
         int alt = 0;
 
