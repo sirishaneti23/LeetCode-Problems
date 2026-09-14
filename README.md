@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
