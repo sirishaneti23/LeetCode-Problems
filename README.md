@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
