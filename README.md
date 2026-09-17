@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0077-combinations) |
 ## Bracket Sequences
 |  |
