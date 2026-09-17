@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1732-find-the-highest-altitude](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
 | ------- |
