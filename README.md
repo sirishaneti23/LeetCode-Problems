@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2299-strong-password-checker-ii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Binary Search
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1094-car-pooling) |
+| [3498-reverse-degree-of-a-string](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
