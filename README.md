@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
