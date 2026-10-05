@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
