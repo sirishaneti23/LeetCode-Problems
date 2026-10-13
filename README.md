@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
