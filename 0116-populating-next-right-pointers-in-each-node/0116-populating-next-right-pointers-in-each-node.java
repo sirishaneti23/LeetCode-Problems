@@ -45,10 +45,13 @@ class Solution {
                 {
                     node.next = null;
                 }
-                if(node.left!= null && node.right!= null)
+                if(node.left!= null)
                 {
                     queue.add(node.left);
-                    queue.add(node.right);            
+                }
+                if(node.right!= null)
+                {
+                    queue.add(node.right);
                 }
             } 
         }
