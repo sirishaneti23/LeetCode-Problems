@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sirishaneti23/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
